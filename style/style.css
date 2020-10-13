@@ -180,6 +180,10 @@ button:focus {
     margin-top: 60px;
 }
 
+.feedback .row .content-bottom {
+    width: -webkit-fill-available;
+}
+
 .triangle {
     width: 0;
     height: 0;
